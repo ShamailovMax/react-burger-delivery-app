@@ -3,4 +3,6 @@
 - HTML
 - CSS, Stylus
 - React.JS
+- JSON
+- Firebase
 ### Created on React.JS
